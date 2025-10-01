@@ -4,3 +4,7 @@ mcp
 langchain
 langgraph
 langchain-google-genai
+aiosqlite
+fastmcp
+fastapi
+uvicorn
