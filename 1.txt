@@ -1,0 +1,5 @@
+# First try with python -m pip
+python -m pip install --upgrade pip
+
+# If that fails, try the full path
+& "D:/CA content/Python/MCP_Server/.venv/Scripts/python.exe" -m pip install langgraph
